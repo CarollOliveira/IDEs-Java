@@ -1,6 +1,6 @@
-package br.com.dio;
+package IDEs_Java;
 
-import br.com.dio.model.Gato;
+import IDEs_Java.model.Gato;
 
 public class PrimeiroPrograma {
     private static Object livro;
