@@ -1,6 +1,6 @@
-package IDEs_Java;
+package Java;
 
-import IDEs_Java.model.Gato;
+import Java.model.Gato;
 
 public class PrimeiroPrograma {
     private static Object livro;

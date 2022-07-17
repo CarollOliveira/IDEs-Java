@@ -1,4 +1,4 @@
-package IDEs_Java.calculadora;
+package Java.calculadora;
 
 import java.util.Scanner;
 

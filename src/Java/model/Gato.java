@@ -1,4 +1,4 @@
-package IDEs_Java.model;
+package Java.model;
 
 import java.util.Objects;
 
