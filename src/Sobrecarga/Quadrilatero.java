@@ -2,19 +2,22 @@ package Sobrecarga;
 
 public class Quadrilatero {
 
-    public static void area(double lado){
+    public static double area(double lado){
 
         System.out.println( "Área quadrado:" +  lado * lado);
+        return lado;
     }
 
-    public static void area(double lado1, double lado2){
+    public static double area(double lado1, double lado2){
 
         System.out.println( "Área quadrado:" + lado1 * lado2);
+        return lado1;
     }
 
-    public static void area(double baseMaior, double basemenor, double altura){
+    public static double area(double baseMaior, double basemenor, double altura){
 
             System.out.println( "Área quadrado:" + ((baseMaior+basemenor) * altura)/2);
+        return baseMaior;
     }
 
     public static void losango(float diagonal1, float diagonal2){

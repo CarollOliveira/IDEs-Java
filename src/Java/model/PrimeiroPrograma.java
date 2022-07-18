@@ -1,6 +1,4 @@
-package Java;
-
-import Java.model.Gato;
+package Java.model;
 
 public class PrimeiroPrograma {
     private static Object livro;
